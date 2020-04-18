@@ -1,7 +1,10 @@
 * {
-    background: url("../WebExo/img/HalSpir.png");
+    background-color: rgb(55, 226, 43);
 }
 
 h1 {
-    font: bold Vibrocentric, sans-serif 30px;
+    font-style: italic;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
 }
